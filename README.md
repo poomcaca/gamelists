@@ -1,4 +1,4 @@
-# GPTGames
+# GmaeLists
 Simple HTML games and tools created with ChatGPT.
 
 ---
@@ -16,7 +16,7 @@ Some data is stored in firebase and firestore. (multiplayer functionality in Tic
 
 **View current version:**
 
-https://www.gptgames.dev/
+https://www.gamelists.org/
 
 ## Documentation
 
