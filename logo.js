@@ -3,7 +3,7 @@ window.addEventListener('load', function () {
     const c = Array.from(document.scripts).find(s => s.src.includes('logo.js'));
     const p = c ? c.getAttribute('data-position') || 'bottom-right' : 'bottom-right';
     const l = document.createElement('a');
-    l.href = 'https://gptgames.dev';
+    l.href = 'https://gamelists.org';
     l.target = '_blank';
     l.classList.add('logo')
     l.style.position = 'fixed';
