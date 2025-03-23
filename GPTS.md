@@ -24,7 +24,7 @@ html_encoded = compress_and_encode(html_code)
 css_encoded = compress_and_encode(css_code)
 js_encoded = compress_and_encode(js_code)
 
-url = f"https://gptgames.dev/tools/code_editor.html?html={html_encoded}&css={css_encoded}&js={js_encoded}"
+url = f"https://gamelists.org/tools/code_editor.html?html={html_encoded}&css={css_encoded}&js={js_encoded}"
 print(f"[Click here to view the code]({url})")
 ```
 
